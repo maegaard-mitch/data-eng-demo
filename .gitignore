@@ -1,0 +1,13 @@
+# mac stuff
+.DS_Store
+
+# python venv
+.venv/
+__pycache__/
+
+# build files
+build/
+dist/
+
+# coverage
+.coverage*
