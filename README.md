@@ -13,7 +13,21 @@ Tools to showcase:
 - Terraform
 - Airflow
 
-## Local Setup
+## Docker Setup
+
+Build a Docker image:
+
+```sh
+docker build -t data-eng-demo .
+```
+
+Then run the image:
+
+```sh
+docker run -d data-eng-demo
+```
+
+## Venv Setup
 
 Setup venv and install dependencies from Poetry:
 
