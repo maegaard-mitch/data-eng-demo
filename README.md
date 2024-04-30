@@ -2,7 +2,16 @@
 
 Data Engineering Demo
 
-Tools to showcase: Python, SQL, GCP, dbt, Docker, Poetry, Terraform, Airflow
+Tools to showcase:
+
+- Python
+- SQL
+- GCP
+- dbt
+- Docker
+- Poetry
+- Terraform
+- Airflow
 
 ## Local Setup
 
